@@ -1,3 +1,4 @@
+```java
 package codingTest;
 
 import java.util.Scanner;
@@ -21,12 +22,14 @@ public static void main(String[] args) {
       int b = sc.nextInt();
       int c = sc.nextInt();
       System.out.println(b+c);
-    }
+   		}
 
     }
 
 }
+```
 
+```java
 package codingTest;
 
 import java.util.Scanner;
@@ -34,6 +37,7 @@ import java.util.Scanner;
 /\*\*
 
 -
+
 - 작성일 : 2022.05.12
 - 내 용 : A-B
 - 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
@@ -50,7 +54,9 @@ public static void main(String[] args) {
     }
 
 }
+```
 
+```java
 package codingTest;
 
 import java.util.Scanner;
@@ -58,6 +64,7 @@ import java.util.Scanner;
 /\*\*
 
 -
+
 - 작성일 : 2022.05.12
 - 내 용 : A\*B
 - 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
@@ -74,7 +81,9 @@ public static void main(String[] args) {
     }
 
 }
+```
 
+```java
 package codingTest;
 
 import java.util.Scanner;
@@ -82,6 +91,7 @@ import java.util.Scanner;
 /\*\*
 
 -
+
 - 작성일 : 2022.05.12
 - 내 용 : A/B
 - 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
@@ -95,5 +105,6 @@ public static void main(String[] args) {
     double b = sc.nextDouble();
     System.out.println(a / b);
 
+	}
 }
-}
+```
