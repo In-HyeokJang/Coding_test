@@ -22,7 +22,7 @@ package codingTest;
  * 내 용 : 백준 1000 - 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
  *
  */
-public class Code_2257 {
+public class Code_1000 {
 
   public static void main(String[] args) {
   int A =1;
@@ -44,7 +44,7 @@ import java.util.Scanner;
  * 내 용 : 백준 2558 -  A+B - 2
  *    두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
  */
-public class Code_2257 {
+public class Code_2558 {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
