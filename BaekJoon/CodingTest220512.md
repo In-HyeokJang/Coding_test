@@ -40,7 +40,7 @@ import java.util.Scanner;
 
 - 작성일 : 2022.05.12
 - 내 용 : A-B
-- 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
+- 두 정수 A와 B를 입력받은 다음, A-B를 출력하는 프로그램을 작성.
   \*/
   public class Code_1001 {
 
@@ -66,8 +66,8 @@ import java.util.Scanner;
 -
 
 - 작성일 : 2022.05.12
-- 내 용 : A\*B
-- 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
+- 내 용 : A*B
+- 두 정수 A와 B를 입력받은 다음, A*B를 출력하는 프로그램을 작성.
   \*/
   public class Code_10998 {
 
@@ -94,7 +94,7 @@ import java.util.Scanner;
 
 - 작성일 : 2022.05.12
 - 내 용 : A/B
-- 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성.
+- 두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성.
   \*/
   public class Code_1008 {
 
