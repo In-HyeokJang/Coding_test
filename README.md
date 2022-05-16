@@ -9,3 +9,6 @@
 - Baekjoon 1001 [A-b](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220512.md)
 - Baekjoon 10998 [A\*b](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220512.md)
 - Baekjoon 1008 [A/b](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220512.md)
+- Baekjoon 10869 [사칙연산](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220516.md)
+- Baekjoon 10926 [??!](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220516.md)
+- Baekjoon 18108 [년도계산](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220516.md)
