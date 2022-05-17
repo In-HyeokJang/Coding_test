@@ -12,3 +12,5 @@
 - Baekjoon 10869 [사칙연산](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220516.md)
 - Baekjoon 10926 [??!](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220516.md)
 - Baekjoon 18108 [년도계산](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220516.md)
+- Beakjoon 10430 [나머지](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220517.md)
+- Beakjoon 2588 [곱셈](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/CodingTest220517.md)
