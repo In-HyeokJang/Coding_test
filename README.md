@@ -17,5 +17,5 @@
 
 ## if문
 
-- Beakjoon 1330 [A,B비교](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/CondingTest220520.mdㅍ)
+- Beakjoon 1330 [A,B비교](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/CondingTest220520.md)
 - Beakjoon 9498 [시험출력](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/CondingTest220520.md)
