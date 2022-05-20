@@ -1,3 +1,4 @@
+```java
 package test;
 
 import java.util.Scanner;
@@ -20,18 +21,20 @@ System.out.println("==");
 }
 }
 }
+```
 
+```java
 package test;
 
 import java.util.Scanner;
 
 /\*\* \*
 _ 작성일 : 2022.05.20
-_ 내 용 : 시험 점수를 입력받아
+_ 내 용 : 백준 9498 시험 점수를 입력받아
 _ 90 ~ 100점은 A, 80 ~ 89점은 B, 70 ~ 79점은 C, 60 ~ 69점은 D,
 _ 나머지 점수는 F를 출력하는 프로그램을 작성하시오. \*
 \*/
-public class Test {
+public class Code_9498 {
 public static void main(String[] args) {
 Scanner sc =new Scanner(System.in);
 int a = sc.nextInt();
@@ -48,3 +51,4 @@ System.out.println("F");
 }
 }
 }
+```
