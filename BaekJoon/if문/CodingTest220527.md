@@ -1,4 +1,5 @@
-package test;
+```java
+ackage test;
 
 import java.util.Scanner;
 
@@ -27,7 +28,9 @@ System.out.println("0");
 }
 }
 }
+```
 
+```java
 package test;
 
 import java.util.Scanner;
@@ -60,3 +63,4 @@ System.out.println("3");
 }
 }
 }
+```
