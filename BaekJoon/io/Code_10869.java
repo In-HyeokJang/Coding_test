@@ -1,19 +1,20 @@
 import java.util.Scanner;
 
 /**
- * 작성일 : 2022.09.15
- * 내 용 : 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
+ *  작성일 : 2022.09.15
+ *  내 용: 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오.
  */
-
-
-public class Code_1000 {
+public class Code_10869 {
     public static void main(String[] args) {
-        System.out.println("A>0, B>0");
-        Scanner scanner = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
-        int A = scanner.nextInt();
-        int B = scanner.nextInt();
+        int A = in.nextInt();
+        int B = in.nextInt();
 
         System.out.println(A+B);
+        System.out.println(A-B);
+        System.out.println(A*B);
+        System.out.println(A/B);
+        System.out.println(A%B);
     }
 }
