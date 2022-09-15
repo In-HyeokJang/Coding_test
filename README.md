@@ -1,4 +1,4 @@
-# CodingTest-Ethan.Jang
+# InHyeok Jang
 
 ## Baekjoon
 
