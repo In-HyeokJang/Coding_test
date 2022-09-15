@@ -1,11 +1,5 @@
 # CodingTest-Ethan.Jang
 
-## Programmers
-
-### Java
-
-### Mysql
-
 ## Baekjoon
 
 ### I/O
@@ -26,7 +20,7 @@
 - Beakjoon 18108 [년도계산](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/io/Code_18108.java)
 - Beakjoon art [고양이,강아지,새싹](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/io/Code_art.java)
 
-## if문
+### if문
 
 - Beakjoon 1330 [A,B비교](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/Code_1330.java)
 - Beakjoon 9498 [시험출력](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/Code_9498.java)
@@ -35,3 +29,11 @@
 - Beakjoon 2480[★주사위 세개](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/Code_2480.java)
 - Beakjoon 2525[★오븐 시계](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/Code_2525.java)
 - Beakjoon 2844[★알람 시계](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/if%EB%AC%B8/Code_2844.java)
+
+### for문
+
+## Programmers
+
+### Java
+
+### Mysql
