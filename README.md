@@ -32,6 +32,22 @@
 
 ### for문
 
+- Beakjoon 2739[구구단](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/2739.java)
+- Beakjoon 10950[A+B -3](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_10950.java)
+- Beakjoon 8393[합](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/8393.java)
+- Beakjoon 25304[영수증](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/25304.java)
+- Beakjoon 15552[빠른 A + B](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_15552.java)
+- Beakjoon 11021[A+B -7](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_11021.java)
+- Beakjoon 11022[A+B -8](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_11022.java)
+- Beakjoon 2438[별 찍기 - 1](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_2438.java)
+- Beakjoon 2439[별 찍기 - 2](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_2439.java)
+- Beakjoon 10871[X 보다 작은 수](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_10871.java)
+- Beakjoon 10952[A+B -5](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_10952.java)
+- Beakjoon 10951[A+B -4](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_10951.java)
+- Beakjoon 1110[더하기 사이클](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_1110.java)
+
+### 1차원 배열
+
 ## Programmers
 
 ### Java
