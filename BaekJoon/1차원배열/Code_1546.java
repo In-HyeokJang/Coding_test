@@ -21,20 +21,31 @@ import java.io.InputStreamReader;
 public class Code_1546 { //런타임 오류 남 (NumberFormat) 확인해 보니까 br.readLine를 한 줄에 작성 해야 함
 // StringTokenizer st = new StringTokenizer(br.readLine()," "); 추가 하면 오류 안남
     public static void main(String[] args) throws Exception {
+        import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+
+public class Main {
+    public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
         int avg = Integer.parseInt(br.readLine());
-        StringTokenizer st = new StringTokenizer(br.readLine()," "); // 라인에 input 작성 가능하게 만들어주는거 같음
+
+        StringTokenizer st = new StringTokenizer(br.readLine()," "); // StringTokenizer 을 통해 공백 기준으로 분리
+
         int [] n = new int [avg];
         double sum =0;
         int max = 0;
         for(int i=0; i<n.length; i++){
-            n[i] = Integer.parseInt(br.readLine());
+            n[i] = Integer.parseInt(st.nextToken());
             sum += n[i];
             if(n[i]>max){
                 max = n[i];
             }
         }
-        System.out.println("sum"+sum);
-        System.out.println((sum/max*100)/avg);
+        System.out.println((sum/max*100.0)/avg);
+        }
     }
-}
+
