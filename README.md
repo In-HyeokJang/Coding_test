@@ -47,6 +47,19 @@
 - Beakjoon 1110[더하기 사이클](https://github.com/In-HyeokJang/Coding_test/blob/master/BaekJoon/for%EB%AC%B8/Code_1110.java)
 
 ### 1차원 배열
+- Beakjoon 1546[평균](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/Code_1546.java)
+- Beakjoon 2562[최대값](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/Code_2562.java)
+- Beakjoon 3052[나머지](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/Code_3052.java)
+- Beakjoon 4344[평균은 넘겠지](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/Code_4344.java)
+- Beakjoon 8958[OX퀴즈](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/Code_8958.java)
+- Beakjoon 10818[최소,최대](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4/Code_10818.java)
+
+### 함수
+- Beakjoon 1065[한수](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/FuntionCodingTest/Code_1065.java)
+- Beakjoon 4673[셀프 넘버](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/FuntionCodingTest/Code_4673.java)
+- Beakjoon 15596[정수 N개의 합](https://github.com/In-HyeokJang/Coding_test/blob/master/BeakJoon/FuntionCodingTest/Code_15596.java)
+
+### String (문자열)
 
 ## Programmers
 
